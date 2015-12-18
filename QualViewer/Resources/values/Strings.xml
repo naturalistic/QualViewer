@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">QualificationViewer</string>
+	<string name="no_subjects">No subjects</string>
+	<string name="qualifications_not_available_title">Offline</string>
+	<string name="qualifications_not_available_message">Qualifications are not available when you are offline, please try again later</string>
+</resources>

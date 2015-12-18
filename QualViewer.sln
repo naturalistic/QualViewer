@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualViewer", "QualViewer\QualViewer.csproj", "{81E1A184-4467-4A6D-B6C0-30A01E8022EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{B2521D5B-190C-40BB-915F-8DB7C4B79C98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81E1A184-4467-4A6D-B6C0-30A01E8022EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E1A184-4467-4A6D-B6C0-30A01E8022EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E1A184-4467-4A6D-B6C0-30A01E8022EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E1A184-4467-4A6D-B6C0-30A01E8022EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2521D5B-190C-40BB-915F-8DB7C4B79C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2521D5B-190C-40BB-915F-8DB7C4B79C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2521D5B-190C-40BB-915F-8DB7C4B79C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2521D5B-190C-40BB-915F-8DB7C4B79C98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
